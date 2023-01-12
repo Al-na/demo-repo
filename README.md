@@ -6,3 +6,7 @@ This file contains text on what the project is about, what it does and any other
 ## Subheader
 
 and some more text that will describe the project.
+
+## Local Development
+
+1. Open index.html in your browser.
